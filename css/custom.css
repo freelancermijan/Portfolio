@@ -1,0 +1,45 @@
+/*body{
+	background-color: rgb(227, 227, 227);
+}*/
+.logo {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+.nav-link {
+	color: white;
+	font-weight: 600;
+	font-size: 16px;
+}
+.nav-link.active {
+	color: rgb(255, 255, 255) !important;
+}
+.our-services .unique-id{
+	color: white !important;
+}
+.hero .defance {
+	font-size: 80px;
+	font-weight: bolder;
+	padding: 50px 0px 0px 0px;
+	height: 70vh;
+	color: yellow;
+}
+.about .img-fluid {
+	height: 550px;
+	width: 550px;
+	border-radius: 50%;
+}
+
+.hero{
+	background-image: url("../images/Renoise-song.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+}
+.team .card-img-top {
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	transform: translateX(25px);
+}
